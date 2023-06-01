@@ -1,0 +1,9 @@
+库存异动表：
+1.操作类型中，盘点出库在sql中的显示为“盘点入库”，应为“盘点出库”
+2.盘点出库时，字段库存数量值会增加，应为减少
+
+
+
+![image-20230601181232836](https://files.catbox.moe/5fd5v9.png)
+
+![image-20230601181157289](https://files.catbox.moe/vsqu3j.png)
