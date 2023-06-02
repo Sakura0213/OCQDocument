@@ -1,0 +1,43 @@
+{
+    "title": "OCQ 帮助文档",
+    "author": "zengxin0213",
+    "description": "OCQ 帮助文档",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+      "website": "styles/website.css"
+  },
+     "plugins": [
+        "-sharing",
+         "-search",
+         "-lunr",
+         "lightbox",
+         "search-pro",
+         "code",
+         "expandable-chapters-small",
+         "tbfed-pagefooter",
+         "back-to-top-button",
+        "page-treeview-simple",
+        "pageview-count"
+
+        
+		 
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Copyright ©OCQ ZengXin 2023",
+            "modify_label": "更新时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+     "lightbox": {
+        "includeJQuery": false,
+        "sameUuid": true,
+        "options": {
+            "resizeDuration": 500,
+            "wrapAround": false
+        }
+    }
+     
+ 
+    }
+}
