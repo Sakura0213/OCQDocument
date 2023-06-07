@@ -92,9 +92,25 @@ https://blog.csdn.net/COCO56/article/details/105155328/
 16.分页
 <div style="page-break-after:always"></div>
 
-脚注：https://www.runoob.com/markdown/md-paragraph.html#:~:text=%E6%98%BE%E7%A4%BA%E6%95%88%E6%9E%9C%E5%A6%82%E4%B8%8B%E6%89%80%E7%A4%BA%EF%BC%9A-,%E8%84%9A%E6%B3%A8,-%E8%84%9A%E6%B3%A8%E6%98%AF%E5%AF%B9
+17.脚注
+https://www.runoob.com/markdown/md-paragraph.html#:~:text=%E6%98%BE%E7%A4%BA%E6%95%88%E6%9E%9C%E5%A6%82%E4%B8%8B%E6%89%80%E7%A4%BA%EF%BC%9A-,%E8%84%9A%E6%B3%A8,-%E8%84%9A%E6%B3%A8%E6%98%AF%E5%AF%B9
 
-流程图：https://www.runoob.com/markdown/md-advance.html#:~:text=Markdown%20%E8%A1%A8%E6%A0%BC-,1%20%E7%AF%87%E7%AC%94%E8%AE%B0,-%E5%86%99%E7%AC%94%E8%AE%B0
+18.流程图
+https://www.runoob.com/markdown/md-advance.html#:~:text=Markdown%20%E8%A1%A8%E6%A0%BC-,1%20%E7%AF%87%E7%AC%94%E8%AE%B0,-%E5%86%99%E7%AC%94%E8%AE%B0
+
+19.a取消超链接下划线
+https://blog.csdn.net/qq_43340547/article/details/120761567
+
+20.实现页面内跳转
+<a href="#funcApply">构造函数.apply()</a> 
+[点击跳转](#funcApply)
+
+<span id="funcApply">**apply()方法**</span>
+
+
+
+
+
 
 
 
