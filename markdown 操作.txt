@@ -107,6 +107,16 @@ https://blog.csdn.net/qq_43340547/article/details/120761567
 
 <span id="funcApply">**apply()方法**</span>
 
+21.表格内换行
+<br/>
+
+22.占位符
+【1】 &ensp;或&#8194; //半角
+【2】 &emsp;或&#8195; //全角
+【3】 &nbsp;或&#160;
+
+
+
 
 
 
